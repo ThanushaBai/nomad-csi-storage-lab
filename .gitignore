@@ -1,0 +1,5 @@
+*.log
+raw/
+data/
+*.qcow2
+*.img
